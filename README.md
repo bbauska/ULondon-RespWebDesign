@@ -1,25 +1,15 @@
-# ULondon-RespWebDesign
-University of London's Responsive Web Design course.  
+# Responsive Web Design
+###### by University of London & Goldsmiths, University of London
 
-## Course outline
-In this course you will learn how to apply concepts from interaction design and human computer interaction in order to design and build an 
-interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive 
-grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using 
-JavaScript objects and templates. 
+## About this Course
+In this course you will learn how to apply concepts from interaction design and human computer interaction in order to design and build an interactive, professional looking website. You will learn how to make your web page designs adapt to different screen sizes using responsive grid layouts. You will learn how to add navigation and other design elements, and you will learn how to separate data and display using JavaScript objects and templates. 
 
-### At the end of the course, you will be able to:
-
-  - Explain why users need to know where they are, where they can go and what is on a web page. 
-
-  - Create wireframe mockups of web pages 
-
-  - Identify the key functional elements of web pages
-
-  - Use bootstrap components to realise page designs
-
-  - Use JavaScript data structures such as arrays and objects to define the data used in a web page
-
-  - Use the handlebars template library to convert data to HTML 
-
-  - Add interactivity to templates using JavaScript event listeners
+## At the end of the course, you will be able to:
+1. Explain why users need to know where they are, where they can go and what is on a web page
+2. Create wireframe mockups of web pages 
+3. Identify the key functional elements of web pages
+4. Use Bootstrap components to realise page designs
+5. Use JavaScript data structures such as arrays and objects to define the data used in a web page
+6. Use the Handlebars template library to convert data to HTML 
+7. Add interactivity to templates using JavaScript event listeners
 
