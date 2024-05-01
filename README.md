@@ -1,7 +1,7 @@
 # Responsive Web Design
 ###### by University of London & Goldsmiths, University of London
 
-![University of London](./images/media/image001.jpeg)
+![University of London](./images/image001.jpeg)
 
 ## About this Course
 
@@ -253,7 +253,9 @@ on the first lesson.
 Welcome back, you\'re back at week one of the second part of responsive
 web development and design. We\'ve gone really well so far.
 
-![](./images/media/image002.png){width="3.0in" height="2.173718285214348in"}
+![](./images/image002.png)
+
+<!-- {width="3.0in" height="2.173718285214348in"} -->
 
 This week, now that we\'ve learned the basics, we\'re going to look at
 more of the principles, design principles, behind developing websites. I
@@ -273,7 +275,8 @@ something you can guarantee. But if you practice good design, then
 hopefully they will have a good user experience. Good usability and good
 design mean good UX.
 
-![](./images/media/image003.png){width="3.0in" height="2.177564523184602in"}
+![](./images/image003.png)
+<!-- {width="3.0in" height="2.177564523184602in"} -->
 
 When thinking about making your website, know your audience, think about
 who that website is for. Who is your user? Think about the type of site
@@ -285,7 +288,8 @@ have. Design for them, design with them in mind. Remember that you may
 have more than one type of user, that\'s quite common, and you have to
 look for a way of navigating between the different user groups.
 
-![](./images/media/image004.png){width="5.0in" height="3.098824365704287in"}
+![](./images/image004.png)
+<!-- {width="5.0in" height="3.098824365704287in"} -->
 
 Under this umbrella of user experience come lots of different things,
 interface design, usability, content, structure. And this week we\'re
@@ -319,7 +323,8 @@ yourself. It\'s not a complicated thing to do. But if you start by
 planning where you want your people to go, and what\'s available to
 them, you\'re going to save yourself an awful lot of time.
 
-![](./images/media/image005.png){width="5.0in" height="2.9391021434820646in"}
+![](./images/image005.png)
+<!-- {width="5.0in" height="2.9391021434820646in"} -->
 
 Let\'s work out how to draw a **site map**. A **site map** is a way of
 visualizing your website. It\'s a way of planning it out, looking for
@@ -341,7 +346,8 @@ about it is, because it\'s so low tech, it\'s really, really easy to
 change. Especially if you\'re using different components for it, and you
 can just chop and change as you like.
 
-![](./images/media/image006.png){width="5.0in" height="3.5176279527559053in"}
+![](./images/image006.png)
+<!-- {width="5.0in" height="3.5176279527559053in"} -->
 
 Now that you have an idea of what your site structure\'s going to be,
 think about how you\'re going to let people know how they can find out
@@ -350,7 +356,8 @@ using something called **breadcrumbs**, or a **breadcrumb trail**. And
 it gets its name from the fairy tale about Hansel and Gretel, who left a
 trail of **breadcrumbs** so they could find their way home again.
 
-![](./images/media/image007.png){width="4.0in" height="2.241025809273841in"}
+![](./images/image007.png)
+<!-- {width="4.0in" height="2.241025809273841in"} -->
 
 Here\'s an example of **Breadcrumbs** on the University of London
 website. And you can see here, just under the picture, this is their
@@ -363,7 +370,8 @@ that we\'ve selected and gone down another level to Goldsmiths, and
 that\'s the page that we\'re on now. If we were to click one of these,
 it would take us to the part of the website that it\'s named.
 
-![](./images/media/image008.png){width="3.0in" height="2.109615048118985in"}
+![](./images/image008.png)
+<!-- {width="3.0in" height="2.109615048118985in"} -->
 
 For our own website we may have **breadcrumbs** that look a little bit
 like this. We could have the **Home** level, then the level of the
@@ -374,7 +382,8 @@ you\'ve decided on structure for your site and you\'ve worked out how
 best to do your navigation, you need to think about the practical issues
 about whether those links should be **absolute** or **relative**.
 
-![](./images/media/image009.png){width="4.0in" height="2.8115387139107613in"}
+![](./images/image009.png)
+<!-- {width="4.0in" height="2.8115387139107613in"} -->
 
 You can see here the difference between the two when you just look at
 the file names. If you had a **relative** link, you wanted to link to
@@ -410,8 +419,11 @@ Where can I go? What is here? But is a really good way of beginning if
 you are not familiar with building websites. It\'s a good way of
 providing that usability for your users.
 
-![](./images/media/image010.png){width="3.5in" height="2.5905982064741906in"}
-![](./images/media/image011.png){width="3.5in" height="2.5947112860892387in"}
+![](./images/image010.png)
+<!-- {width="3.5in" height="2.5905982064741906in"} -->
+
+![](./images/image011.png)
+<!-- {width="3.5in" height="2.5947112860892387in"} -->
 
 Now, we\'ve laid out our website, in a bit of a grid structure, so I\'d
 like to talk a little bit about that.
@@ -422,8 +434,8 @@ If you think back to the first part of this course. Remember the idea of
 the **box model**. With CSS all the elements in a web page can be
 thought of as a box, a rectangular box.
 
-![](./images/media/image013.png){width="4.0in"
-height="2.9705129046369203in"}
+![](./images/image013.png)
+<!-- {width="4.0in" height="2.9705129046369203in"} -->
 
 Take the idea of that **box model** and expand it and we\'re going to
 think of our page as just a series of boxes. When we think about where
@@ -431,8 +443,8 @@ am I and where can I go, then underneath we\'ve just got the content in
 a series of boxes. And we know this is way that people can look at
 websites.
 
-![](./images/media/image014.png){width="5.0in"
-height="3.7104702537182854in"}
+![](./images/image014.png)
+<!-- {width="5.0in" height="3.7104702537182854in"} -->
 
 If we think back, here\'s our album that we\'re going to make. We have
 four boxes here representing four albums. And they\'re all laid out in a
@@ -440,10 +452,10 @@ row. Now the nice thing about the grid layout and the idea of using
 boxes is that it\'s very fluid and responsive. We can mix things up, we
 can lay things out. In this box format.
 
-![](./images/media/image015.png){width="3.5in"
-height="2.581998031496063in"}
-![](./images/media/image016.png){width="3.5in"
-height="2.5879811898512686in"}
+![](./images/image015.png)
+<!-- {width="3.5in" height="2.581998031496063in"} -->
+![](./images/image016.png)
+<!-- {width="3.5in" height="2.5879811898512686in"} -->
 
 Here\'s that F shaped scaling pattern again of what people see in
 websites. And you can see we\'ve captured those elements of branding of
@@ -454,8 +466,8 @@ people look for specific areas for content that have white space around
 them. The nice thing about the grid layout is that you can break it down
 into separate components.
 
-![](./images/media/image017.png){width="4.0in"
-height="2.9594017935258092in"}
+![](./images/image017.png)
+<!-- {width="4.0in" height="2.9594017935258092in"} -->
 
 This is our mobile version roughly off the site that we\'re trying to
 build. And you can see here that we kept the similar bits at the top,
@@ -472,8 +484,8 @@ make it really clear, and so that\'s why we see things like careful use
 of white space, careful use of borders and height lines, to make sure
 that we\'re highlighting the information that the user needs.
 
-![](./images/media/image018.png){width="4.0in"
-height="2.9538462379702537in"}
+![](./images/media/image018.png)
+<!-- {width="4.0in" height="2.9538462379702537in"} -->
 
 This grid structure is really useful. It\'s very effective because it\'s
 modular and because we can move these components around. We must check
