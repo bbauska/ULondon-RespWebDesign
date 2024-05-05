@@ -159,33 +159,33 @@ looking at using a **Bootstrap** modal. We hope you enjoy the module!
 
 <h6>8 videos, 3 zips, 2 urls</h6>
 
-3.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
+3.01  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
     -- Adding Content to Websites
 
   -   **3.01a:** JavaScript Reference Site (url)
 
-3.02.  Separating structure and content
+3.02  Separating structure and content
 
-3.03.  JavaScript objects
+3.03  JavaScript objects
 
   -   **3:03a:** Handlebars Templates (url)
 
-3.04.  JavaScript Templates with Handlebars
+3.04  JavaScript Templates with Handlebars
 
   -   **3.04a:** 2.3.4 (zip)
 
-3.05.  Putting Data into Templates
+3.05  Putting Data into Templates
 
   -   **3.05a:** 2.3.5 (zip)
 
-3.06.  Displaying Different Data with the Same Template
+3.06  Displaying Different Data with the Same Template
 
   -   **3.06a:** 2.3.6 final (zip)
 
-3.07.  Displaying the Same Data with Different Templates, Use Bootstrap
+3.07  Displaying the Same Data with Different Templates, Use Bootstrap
     Modal
 
-3.08.  Summary -- Adding Content to Websites
+3.08  Summary -- Adding Content to Websites
 
 <h2>Week (module) 4 - Building a full gallery app</h2>
 
@@ -198,7 +198,7 @@ templates.
 
 <h6>8 videos, 4 zips, 2 url</h6>
 
-4.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
+4.01  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
     Building a Full Gallery App
 
   -   **4.01a: **Code Developed in Lessons 2-4 (zip)
@@ -207,25 +207,25 @@ templates.
 
   -   **4.01c:** JavaScript Arrays (url)
 
-4.02.  JavaScript Arrays
+4.02  JavaScript Arrays
 
-4.03.  Storing Objects in Arrays and Displaying Them with a Template
+4.03  Storing Objects in Arrays and Displaying Them with a Template
 
-4.04.  Dynamically Displaying Single Images from an Array
+4.04  Dynamically Displaying Single Images from an Array
 
   -   **4.04a: **Select Image (zip)
 
-4.05.  Implementing a Search Function
+4.05  Implementing a Search Function
 
   -   **4.05a: **Source Code for the Gallery (zip)
 
-4.06.  Data Structure for a Complete Image Gallery
+4.06  Data Structure for a Complete Image Gallery
 
-4.07.  Writing the Templates for the Gallery
+4.07  Writing the Templates for the Gallery
 
-4.08.  Switching Displays in the Gallery
+4.08  Switching Displays in the Gallery
 
-4.09.  Summary -- Building a Full Gallery App
+4.09  Summary -- Building a Full Gallery App
 
 
 ## 1.01 Overview Responsive Web Design (0:32)
@@ -238,9 +238,9 @@ user. And Kate\'s going to show you some great techniques from
 interaction design that help you do it. So I look forward to seeing you
 on the first lesson.
 
-### 1.01a Lecture slides (MOOC2-1.pdf) (modules 1.02-1.05)
+  - <h3><a href="./pdf/1.01a-LectureSlides.pdf</a>1.01a Lecture slides (MOOC2-1.pdf) (modules 1.02-1.05)</a></h3>
 
-> **Here are Kate\'s slides used for the following lessons:**
+<!-- > **Here are Kate\'s slides used for the following lessons:** -->
 
 -   **Usability and user experience (1.02)**
 
@@ -250,7 +250,7 @@ on the first lesson.
 
 -   **Accessibility (1.05)**
 
-## 1.02 Usability and User Experience (2:29)
+<h2 id="ch1-02">1.02 Usability and User Experience (2:29)</h2>
 
 Welcome back, you\'re back at week one of the second part of responsive
 web development and design. We\'ve gone really well so far.
@@ -269,8 +269,9 @@ want to look at some of the concepts that underpin web development. And
 two things you\'ll hear talked about are **usability** and **user
 experience**. **Usability** is fairly straight forward. It\'s about how
 usable your website is. This might mean how efficient it is, how
-memorable it is for your users, how learnable, how intuitive it is. The
-other term, the **user experience**, which is often abbreviated to
+memorable it is for your users, how learnable, how intuitive it is. 
+
+The other term, the **user experience**, which is often abbreviated to
 **UX**, is something that\'s really come to light in the past few years.
 It\'s become a very big industry. It doesn\'t just apply to websites.
 It\'s also a big part of product design as well. User experience, UX, is
@@ -281,11 +282,12 @@ something you can guarantee. But if you practice good design, then
 hopefully they will have a good user experience. Good usability and good
 design mean good UX.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. know your audience (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image003.png"
   style="width:30%"
-  alt="." />
+  title="Know your audience"
+  alt="Know your audience." />
 </p>
 
 When thinking about making your website, know your audience, think about
@@ -298,11 +300,12 @@ have. Design for them, design with them in mind. Remember that you may
 have more than one type of user, that\'s quite common, and you have to
 look for a way of navigating between the different user groups.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. user experience (ux) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image004.png"
   style="width:50%"
-  alt="." />
+  title="User Experience (UX) - Interface Design, Usability, Content and Structure"
+  alt="User Experience (UX) - Interface Design, Usability, Content and Structure." />
 </p>
 
 Under this umbrella of user experience come lots of different things,
@@ -339,11 +342,12 @@ yourself. It\'s not a complicated thing to do. But if you start by
 planning where you want your people to go, and what\'s available to
 them, you\'re going to save yourself an awful lot of time.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 05.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05. draw a site map to visualize (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image005.png"
   style="width:50%"
-  alt="." />
+  title="Draw a site map to visualize your website"
+  alt="Draw a site map to visualize your website." />
 </p>
 
 Let\'s work out how to draw a **site map**. A **site map** is a way of
@@ -366,11 +370,12 @@ about it is, because it\'s so low tech, it\'s really, really easy to
 change. Especially if you\'re using different components for it, and you
 can just chop and change as you like.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 06.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 06. breadcrumbs on the u of london web site (xx) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image006.png"
   style="width:50%"
-  alt="." />
+  title="Breadcrumbs on the University of London Web Site"
+  alt="Breadcrumbs on the University of London Web Site." />
 </p>
 
 Now that you have an idea of what your site structure\'s going to be,
@@ -380,11 +385,12 @@ using something called **breadcrumbs**, or a **breadcrumb trail**. And
 it gets its name from the fairy tale about Hansel and Gretel, who left a
 trail of **breadcrumbs** so they could find their way home again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 07.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 07. breadcrumbs, page about goldsmiths (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image007.png"
   style="width:40%"
-  alt="." />
+  title="Breadcrumbs, page about Goldsmiths, University of London"
+  alt="Breadcrumbs, page about Goldsmiths, University of London." />
 </p>
 
 Here\'s an example of **Breadcrumbs** on the University of London
@@ -398,11 +404,12 @@ that we\'ve selected and gone down another level to Goldsmiths, and
 that\'s the page that we\'re on now. If we were to click one of these,
 it would take us to the part of the website that it\'s named.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 08. breadcrumbs, home >> album1 >> photos (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image008.png"
   style="width:30%"
-  alt="." />
+  title="Breacrumbs, Home >> albums >> album 1 >> photos"
+  alt="Breacrumbs, Home >> albums >> album 1 >> photos." />
 </p>
 
 For our own website we may have **breadcrumbs** that look a little bit
@@ -414,11 +421,12 @@ you\'ve decided on structure for your site and you\'ve worked out how
 best to do your navigation, you need to think about the practical issues
 about whether those links should be **absolute** or **relative**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. relative vs absolute links (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image009.png"
   style="width:40%"
-  alt="." />
+  title="Relative vs. absolute links"
+  alt="Relative vs. absolute links." />
 </p>
 
 You can see here the difference between the two when you just look at
@@ -457,24 +465,26 @@ Where can I go? What is here? But is a really good way of beginning if
 you are not familiar with building websites. It\'s a good way of
 providing that usability for your users.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10/11.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10/11. example, grid structure (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image010.png"
   style="width:35%"
-  alt="." />
+  alt="Where am I?  Where can I go? and multiple What is here?" />
 <img src="./images/image011.png"
   style="width:35%"
-  alt="." />
+  title="My photo albums >> Album 1 >> Album 2 >> Album 3 and >> Album 4"
+  alt="My photo albums >> Album 1 >> Album 2 >> Album 3 and >> Album 4." />
 </p>
 
 Now, we\'ve laid out our website, in a bit of a grid structure, so I\'d
 like to talk a little bit about that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 12. box model w/margin, border, padding and content (xx) ~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image012.png"
   style="width:30%"
-  alt="." />
+  title="Box model with margin, border, padding and content"
+  alt="Box model with margin, border, padding and content." />
 </p>
 
 If you think back to the first part of this course. Remember the idea of
