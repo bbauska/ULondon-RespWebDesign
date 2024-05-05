@@ -70,39 +70,37 @@ creating an accessible website. We hope you enjoy the module!
 
 <h6>8 videos, 3 pdfs, 4 urls</h6>
 
-1.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-0avtb)
+1.01  [Overview Responsive Web Design](https://www.coursera.org/lecture/responsive-web-design/overview-0avtb)
 
-    -- Web Design Principles
+  - **1.01a:** MOOC 2 Week 1 (pdf)
 
-**1.01a:** MOOC 2 Week 1 (pdf)
+1.02  Usability and User Experience
 
-1.02.  Usability and User Experience
+1.03  Where Can You Go?
 
-1.03.  Where Can You Go?
+1.04  What is Here?
 
-1.04.  What is Here?
+  - **1.04a:** Web Accessibility Initiative (WAI) (url)
 
-**1.04a:** Web Accessibility Initiative (WAI) (url)
+1.05  Accessibility
 
-1.05.  Accessibility
+  - **1.05a:** Edward Tufte (url)
 
-**1.05a:** Edward Tufte (url)
+  - **1.05b:** User Centered Design Process (url)
 
-**1.05b:** User Centered Design Process (url)
+  - **1.05c:** Guidelines for Design (pdf)
 
-**1.05c:** Guidelines for Design (pdf)
+1.06  Guidelines for Design
 
-1.06.  Guidelines for Design
+  - **1.06a:** Stunning Design & Motion Projects (url)
 
-**1.06a:** Stunning Design & Motion Projects (url)
+  - **1.06b:** Design Examples (pdf)
 
-**1.06b:** Design Examples (pdf)
+1.07  Design Examples
 
-1.07.  Design Examples
+1.08  Summary -- Web Design Principles
 
-1.08.  Summary -- Web Design Principles
-
-## Week (module) 2 - Realizing Design Principles in Code
+<h2>Week (module) 2 - Realizing Design Principles in Code</h2>
 
 Welcome to the second module of \'Responsive Web Design\'. By the end of
 this module (2), you will be able to set up a basic **Bootstrap** site
@@ -113,44 +111,44 @@ one with a responsive grid. We\'ll also be looking at installing
 
 <h6>9 videos, 3 zips, 6 urls</h6>
 
--   **2.00a:** Blank Bootstrap Site (zip)
+  -   **2.00a:** Blank Bootstrap Site (zip)
 
--   **2.00b:** Final Version (zip)
+  -   **2.00b:** Final Version (zip)
 
-2.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-ImlJz)
+2.01  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-ImlJz)
     -- Realizing Design Principles in Code
 
-- <b>2.01a:</b> <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap Download (url)</a>
+  - <b>2.01a:</b> <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap Download (url)</a>
 
-2.02.  Basic Bootstrap Set up
+2.02  Basic Bootstrap Set up
 
--   **2.02a: **Basic Bootstrap Setup Starter Code (zip)
+  -   **2.02a: **Basic Bootstrap Setup Starter Code (zip)
 
--   **2.02b: **Basic Bootstrap Setup (url)
+  -   **2.02b: **Basic Bootstrap Setup (url)
 
-2.03.  Where Can You Go?
+2.03  Where Can You Go?
 
-2.04.  Collapsible Navbars
+2.04  Collapsible Navbars
 
-2.05.  Building Out the Site
+2.05  Building Out the Site
 
--   **2.05a: **Bootstrap Breadcrumbs (url)
+  -   **2.05a: **Bootstrap Breadcrumbs (url)
 
-2.06.  Where Am I?
+2.06  Where Am I?
 
--   **2.06a: **Bootstrap Grid System (url)
+  -   **2.06a: **Bootstrap Grid System (url)
 
-2.07.  Responsive Grid
+2.07  Responsive Grid
 
--   **2.07a: **Bootstrap Themes (url)
+  -   **2.07a: **Bootstrap Themes (url)
 
--   **2.07b:** Commercial Bootstrap Themes (url)
+  -   **2.07b:** Commercial Bootstrap Themes (url)
 
-2.08.  Bootstrap Themes
+2.08  Bootstrap Themes
 
-2.09.  Summary -- Realizing Design Principles in Code
+2.09  Summary -- Realizing Design Principles in Code
 
-## Week (module) 3 - Adding content to websites
+<h2>Week (module) 3 - Adding content to websites</h2>
 
 Welcome to the third module of \'Responsive Web Design\' By the end of
 this module, you will be able to separate page structure from page
@@ -164,32 +162,32 @@ looking at using a **Bootstrap** modal. We hope you enjoy the module!
 3.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
     -- Adding Content to Websites
 
--   **3.01a:** JavaScript Reference Site (url)
+  -   **3.01a:** JavaScript Reference Site (url)
 
 3.02.  Separating structure and content
 
 3.03.  JavaScript objects
 
--   **3:03a:** Handlebars Templates (url)
+  -   **3:03a:** Handlebars Templates (url)
 
 3.04.  JavaScript Templates with Handlebars
 
--   **3.04a:** 2.3.4 (zip)
+  -   **3.04a:** 2.3.4 (zip)
 
 3.05.  Putting Data into Templates
 
--   **3.05a:** 2.3.5 (zip)
+  -   **3.05a:** 2.3.5 (zip)
 
 3.06.  Displaying Different Data with the Same Template
 
--   **3.06a:** 2.3.6 final (zip)
+  -   **3.06a:** 2.3.6 final (zip)
 
 3.07.  Displaying the Same Data with Different Templates, Use Bootstrap
     Modal
 
 3.08.  Summary -- Adding Content to Websites
 
-<h1>Week (module) 4 - Building a full gallery app</h1>
+<h2>Week (module) 4 - Building a full gallery app</h2>
 
 Welcome to the fourth module of \'Responsive Web Design\'. By the end of
 this module you will be able to store objects in an array and display
@@ -203,11 +201,11 @@ templates.
 4.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
     Building a Full Gallery App
 
--   **4.01a: **Code Developed in Lessons 2-4 (zip)
+  -   **4.01a: **Code Developed in Lessons 2-4 (zip)
 
--   **4.01b: **Final Gallery (zip)
+  -   **4.01b: **Final Gallery (zip)
 
--   **4.01c:** JavaScript Arrays (url)
+  -   **4.01c:** JavaScript Arrays (url)
 
 4.02.  JavaScript Arrays
 
@@ -215,11 +213,11 @@ templates.
 
 4.04.  Dynamically Displaying Single Images from an Array
 
--   **4.04a: **Select Image (zip)
+  -   **4.04a: **Select Image (zip)
 
 4.05.  Implementing a Search Function
 
--   **4.05a: **Source Code for the Gallery (zip)
+  -   **4.05a: **Source Code for the Gallery (zip)
 
 4.06.  Data Structure for a Complete Image Gallery
 
@@ -228,6 +226,7 @@ templates.
 4.08.  Switching Displays in the Gallery
 
 4.09.  Summary -- Building a Full Gallery App
+
 
 ## 1.01 Overview Responsive Web Design (0:32)
 
@@ -3467,7 +3466,4 @@ of outline I\'ve just given you, I think you can do some pretty exciting
 and pretty impressive projects.
 
 ..the end
-
-
-
 
