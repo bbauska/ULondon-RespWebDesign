@@ -1,8 +1,7 @@
-# Responsive Web Design
-###### by University of London & Goldsmiths, University of London
-
+<h1 style="centered">Responsive Web Design</h1>
+<h6 style="centered">by University of London & Goldsmiths, University of London</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01.  (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. university of london logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.jpeg"
   style="width:20%"
@@ -10,7 +9,7 @@
   alt="University of London logo." />
 </p>
 
-## About this Course
+<h2>About this Course</h2>
 
 In this course you will learn how to apply concepts from interaction
 design and human computer interaction in order to design and build an
@@ -20,20 +19,18 @@ grid layouts. You will learn how to add navigation and other design
 elements, and you will learn how to separate data and display using
 JavaScript objects and templates.
 
-### **Learning outcomes:**
+<h3>Learning outcomes:</h3>
 
-By the end of this course, you will be able to:
+<p>By the end of this course, you will be able to:</p>
 
--   Understand the basic concepts of usability and user experience
+<ul>
+  <li>Understand the basic concepts of usability and user experience,</li>
+  <li>Tell the user where they can go with navbars,</li>
+  <li>Tell the user what is here with effective layout, and</li>
+  <li>Understand the high-level requirements of creating an accessible website.</li>
+</ul>
 
--   Tell the user where they can go with navbars
-
--   Tell the user what is here with effective layout
-
--   Understand the high-level requirements of creating an accessible
-    website
-
-### Learning Objectives:
+<h3>Learning Objectives:</h3>
 
 1.  Explain why users need to know where they are, where they can go and
     what is on a web page
@@ -51,7 +48,7 @@ By the end of this course, you will be able to:
 
 7.  Add interactivity to templates using JavaScript event listeners
 
-### In this course, you will complete:
+<h3>In this course, you will complete:</h3>
 
 -   1 website design assignment taking \~1 hour to complete
 
@@ -60,9 +57,9 @@ By the end of this course, you will be able to:
 Participation in or completion of this online course will not confer
 academic credit for University of London programmes.
 
-## Syllabus
+<h2>Syllabus</h2>
 
-## Week (module) 1 - Web design principles
+<h2>Week (module) 1 - Web design principles</h2>
 
 Welcome to the first module of \'Responsive Web Design\'. By the end of
 this module, you will be able to understand the basic concepts of
@@ -71,22 +68,23 @@ navbars. In addition, you will be able to tell the user what is here
 with effective layout and understand the high-level requirements of
 creating an accessible website. We hope you enjoy the module!
 
-8 videos, 3 pdfs, 4 urls
+<h6>8 videos, 3 pdfs, 4 urls</h6>
 
-1.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-0avtb)
+1.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-0avtb)
+
     -- Web Design Principles
 
 **1.01a:** MOOC 2 Week 1 (pdf)
 
-2.  Usability and User Experience
+1.02.  Usability and User Experience
 
-3.  Where Can You Go?
+1.03.  Where Can You Go?
 
-4.  What is Here?
+1.04.  What is Here?
 
 **1.04a:** Web Accessibility Initiative (WAI) (url)
 
-5.  Accessibility
+1.05.  Accessibility
 
 **1.05a:** Edward Tufte (url)
 
@@ -94,15 +92,15 @@ creating an accessible website. We hope you enjoy the module!
 
 **1.05c:** Guidelines for Design (pdf)
 
-6.  Guidelines for Design
+1.06.  Guidelines for Design
 
 **1.06a:** Stunning Design & Motion Projects (url)
 
 **1.06b:** Design Examples (pdf)
 
-7.  Design Examples
+1.07.  Design Examples
 
-8.  Summary -- Web Design Principles
+1.08.  Summary -- Web Design Principles
 
 ## Week (module) 2 - Realizing Design Principles in Code
 
@@ -113,7 +111,7 @@ breadcrumb trails and you\'ll also be able to build multiple layouts in
 one with a responsive grid. We\'ll also be looking at installing
 **Bootstrap** themes.
 
-#### 9 videos, 3 zips, 6 urls
+<h6>9 videos, 3 zips, 6 urls</h6>
 
 -   **2.00a:** Blank Bootstrap Site (zip)
 
@@ -161,7 +159,7 @@ Handlebars as well as being able to display different data with the same
 template and the same data with different templates. Finally, we will be
 looking at using a **Bootstrap** modal. We hope you enjoy the module!
 
-#### 8 videos, 3 zips, 2 urls
+<h6>8 videos, 3 zips, 2 urls</h6>
 
 3.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
     -- Adding Content to Websites
@@ -191,7 +189,7 @@ looking at using a **Bootstrap** modal. We hope you enjoy the module!
 
 3.08.  Summary -- Adding Content to Websites
 
-# Week (module) 4 - Building a full gallery app
+<h1>Week (module) 4 - Building a full gallery app</h1>
 
 Welcome to the fourth module of \'Responsive Web Design\'. By the end of
 this module you will be able to store objects in an array and display
@@ -200,7 +198,7 @@ array. We will also be looking at implementing a search function, and by
 working with complex data structures, switching between different
 templates.
 
-#### 8 videos, 4 zips, 2 url
+<h6>8 videos, 4 zips, 2 url</h6>
 
 4.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
     Building a Full Gallery App
@@ -315,7 +313,9 @@ this good user experience, so we\'ll be looking at things like how you
 structure a page. How you make something accessible, and what are good
 and bad examples of web design.
 
-## 1.03 Where Can You Go? (6:02)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-03">1.03 Where Can You Go? (6:02)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This section is looking at navigation. Where can I go?
 
@@ -448,7 +448,9 @@ different directories. But it\'s up to you, but do think about the
 impact it will have if you change things around when you\'ve done
 **relative** versus **absolute** links.
 
-## 1.04 What is Here? (3:15)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-04">1.04 What is Here? (3:15)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 So far, we have looked at where am I? Where can I go? Now we are going
 to look at what is here? You have to stick to this model of where am I?
@@ -563,13 +565,13 @@ and clear labels for each section. Every section on your web page needs
 to tell a story so think about what your users looking at and think what
 will catch their attention and draw their eye.
 
-### 1.04a -- Web Accessibility Initiative (url)
+<h3 id="ch1-04a">1.04a -- Web Accessibility Initiative (url)</h3>
 
 We will be looking at the following web page in the next lesson:
 
 **Web Accessibility Initiative** <http://www.w3.org/WAI/>
 
-## 1.05 Accessibility (4:58)
+<h2 id="ch1-05">1.05 Accessibility (4:58)</h2>
 
 We are now going to look at accessibility. Accessibility is really
 important and falls under user experience. So, what is it? What is the
@@ -641,7 +643,7 @@ make sure that it can be accessed in a number of ways. And you can do
 that by turning images on and off, by turning scripts on and off, just
 to see how well the page stands up on its own.
 
-### 1.05a - URLs for this next lesson (url)
+<h3 id="ch1-05a">1.05a - URLs for this next lesson (url)</h3>
 
 We will be looking at the following web pages in the next lesson:
 
@@ -649,12 +651,12 @@ We will be looking at the following web pages in the next lesson:
 
 -   **User centered design**: <http://www.w3.org/WAI/redesign/ucd>
 
-### 1.05b -- Guidelines for Design (pdf)
+<h3 id="ch1-05b">1.05b -- Guidelines for Design (pdf)</h3>
 
 -   Guidelines for Design:
     https://github.com/bbauska/ULondon-RespWebDesign/tree/main/PDFs/1.05_Guidlines_for_design.pdf
 
-## 1.06 Guidelines for Design (10:31)
+<h2 id="ch1-06">1.06 Guidelines for Design (10:31)</h2>
 
 We\'ve been looking at user centered design. And we\'ve been trying to
 think about how we use those approaches to understand the way that
@@ -819,15 +821,12 @@ simple. And that\'s, I think, one of the top 20 websites in the world.
 So why use color? Because it looks nice? That\'s not a good enough
 reason.
 
-### 1.06a -- All Websites Look the Same (url)
+  - <h3 id="ch1-06a"><a href="http://www.novolume.co.uk/blog/all-websites-look-the-same/">1.06a -- All Websites Look the Same (url)</a></h3>
 
-<http://www.novolume.co.uk/blog/all-websites-look-the-same/>
+  - <h3 id="ch1-06b"><a href=".pdf/1.06b-DesignExamples.pdf">1.06b -- Design examples (pdf)</a></h3>
 
-### 1.06b -- Design examples (pdf)
 
-./pdf/1.06b-Design-examples.pdf
-
-## 1.07 Design Examples (16:09)
+<h2 id="ch1-07">1.07 Design Examples (16:09)</h2>
 
 The most popular websites in the world use precisely the approaches that
 I\'ve just been outlining to you. Okay. Google, which I guess we should
@@ -1075,16 +1074,16 @@ ideas when you\'re analyzing other websites, and try to come up with a
 design that you know is going to work for clients. Also, more
 importantly the users that those clients are serving.
 
-## 1.08 Summary (0:28)
+<h2 id="ch1-08">1.08 Summary (0:28)</h2>
 
 Well, I hope you\'ve got the pen and paper out. Well, we\'ve learned how
 to really control how users can move around our websites, to express to
 them where they can go and where they are. And in next module, we\'re
 going to learn how to sort of implement those ideas in actual code.
 
-# Week 2 - Realizing Design Principles in Code
+<h1 id="ch2">Week 2 - Realizing Design Principles in Code</h1>
 
-### Code for this module
+<h3>Code for this module</h3>
 
 There are two packages of code for this module. Firstly, a blank
 bootstrap site, to get you up and running with bootstrap:
@@ -3468,4 +3467,7 @@ of outline I\'ve just given you, I think you can do some pretty exciting
 and pretty impressive projects.
 
 ..the end
+
+
+
 
