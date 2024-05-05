@@ -119,38 +119,38 @@ one with a responsive grid. We\'ll also be looking at installing
 
 -   **2.00b:** Final Version (zip)
 
-1.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-ImlJz)
+2.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-ImlJz)
     -- Realizing Design Principles in Code
 
 - <b>2.01a:</b> <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap Download (url)</a>
 
-2.  Basic Bootstrap Set up
+2.02.  Basic Bootstrap Set up
 
 -   **2.02a: **Basic Bootstrap Setup Starter Code (zip)
 
 -   **2.02b: **Basic Bootstrap Setup (url)
 
-3.  Where Can You Go?
+2.03.  Where Can You Go?
 
-4.  Collapsible Navbars
+2.04.  Collapsible Navbars
 
-5.  Building Out the Site
+2.05.  Building Out the Site
 
 -   **2.05a: **Bootstrap Breadcrumbs (url)
 
-6.  Where Am I?
+2.06.  Where Am I?
 
 -   **2.06a: **Bootstrap Grid System (url)
 
-7.  Responsive Grid
+2.07.  Responsive Grid
 
 -   **2.07a: **Bootstrap Themes (url)
 
 -   **2.07b:** Commercial Bootstrap Themes (url)
 
-8.  Bootstrap Themes
+2.08.  Bootstrap Themes
 
-9.  Summary -- Realizing Design Principles in Code
+2.09.  Summary -- Realizing Design Principles in Code
 
 ## Week (module) 3 - Adding content to websites
 
@@ -163,33 +163,33 @@ looking at using a **Bootstrap** modal. We hope you enjoy the module!
 
 #### 8 videos, 3 zips, 2 urls
 
-1.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
+3.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-WofnR)
     -- Adding Content to Websites
 
 -   **3.01a:** JavaScript Reference Site (url)
 
-2.  Separating structure and content
+3.02.  Separating structure and content
 
-3.  JavaScript objects
+3.03.  JavaScript objects
 
 -   **3:03a:** Handlebars Templates (url)
 
-4.  JavaScript Templates with Handlebars
+3.04.  JavaScript Templates with Handlebars
 
 -   **3.04a:** 2.3.4 (zip)
 
-5.  Putting Data into Templates
+3.05.  Putting Data into Templates
 
 -   **3.05a:** 2.3.5 (zip)
 
-6.  Displaying Different Data with the Same Template
+3.06.  Displaying Different Data with the Same Template
 
 -   **3.06a:** 2.3.6 final (zip)
 
-7.  Displaying the Same Data with Different Templates, Use Bootstrap
+3.07.  Displaying the Same Data with Different Templates, Use Bootstrap
     Modal
 
-8.  Summary -- Adding Content to Websites
+3.08.  Summary -- Adding Content to Websites
 
 # Week (module) 4 - Building a full gallery app
 
@@ -202,7 +202,7 @@ templates.
 
 #### 8 videos, 4 zips, 2 url
 
-1.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
+4.01.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-KKdql) -
     Building a Full Gallery App
 
 -   **4.01a: **Code Developed in Lessons 2-4 (zip)
@@ -211,25 +211,25 @@ templates.
 
 -   **4.01c:** JavaScript Arrays (url)
 
-2.  JavaScript Arrays
+4.02.  JavaScript Arrays
 
-3.  Storing Objects in Arrays and Displaying Them with a Template
+4.03.  Storing Objects in Arrays and Displaying Them with a Template
 
-4.  Dynamically Displaying Single Images from an Array
+4.04.  Dynamically Displaying Single Images from an Array
 
 -   **4.04a: **Select Image (zip)
 
-5.  Implementing a Search Function
+4.05.  Implementing a Search Function
 
 -   **4.05a: **Source Code for the Gallery (zip)
 
-6.  Data Structure for a Complete Image Gallery
+4.06.  Data Structure for a Complete Image Gallery
 
-7.  Writing the Templates for the Gallery
+4.07.  Writing the Templates for the Gallery
 
-8.  Switching Displays in the Gallery
+4.08.  Switching Displays in the Gallery
 
-9.  Summary -- Building a Full Gallery App
+4.09.  Summary -- Building a Full Gallery App
 
 ## 1.01 Overview Responsive Web Design (0:32)
 
