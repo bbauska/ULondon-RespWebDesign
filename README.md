@@ -122,9 +122,7 @@ one with a responsive grid. We\'ll also be looking at installing
 1.  [Overview](https://www.coursera.org/lecture/responsive-web-design/overview-ImlJz)
     -- Realizing Design Principles in Code
 
--   **2.01a: **Download Bootstrap (url)
-
-> https://getbootstrap.com/docs/5.3/getting-started/introduction/
+- <b>2.01a:</b> <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap Download (url)</a>
 
 2.  Basic Bootstrap Set up
 
