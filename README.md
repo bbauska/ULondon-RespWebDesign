@@ -1,5 +1,5 @@
-<h1 style="centered">Responsive Web Design</h1>
-<h6 style="centered">by University of London & Goldsmiths, University of London</h6>
+<h1 align="centered">Responsive Web Design</h1>
+<h6 align="centered">by University of London & Goldsmiths, University of London</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. university of london logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
