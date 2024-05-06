@@ -70,9 +70,9 @@ creating an accessible website. We hope you enjoy the module!
 
 <h6>8 videos, 3 pdfs, 4 urls</h6>
 
-**1.01**  [Overview Responsive Web Design](https://www.coursera.org/lecture/responsive-web-design/overview-0avtb)
+**1.01**  [Responsive Web Design](./pdf/1.01a-ResponsiveWebDesign.pdf)
 
-  - **1.01a:** MOOC 2 Week 1 (pdf)
+  - **1.01a:** Responsive Web Design (pdf)
 
 **1.02**  Usability and User Experience
 
