@@ -238,17 +238,16 @@ user. And Kate\'s going to show you some great techniques from
 interaction design that help you do it. So I look forward to seeing you
 on the first lesson.
 
-  - <h3><a href="./pdf/1.01a-LectureSlides.pdf</a>1.01a Lecture slides (MOOC2-1.pdf) (modules 1.02-1.05)</a></h3>
+  - <h3><a href="./pdf/1.01a-ResponsiveWebDesign.pdf">
+    1.01a Responsive Web Design for modules 1.02-1.05 (pdf)</a></h3>
 
-<!-- > **Here are Kate\'s slides used for the following lessons:** -->
+  -   **Usability and user experience (1.02)**
 
--   **Usability and user experience (1.02)**
+  -   **Where can you go? (1.03)**
 
--   **Where can you go? (1.03)**
+  -   **What is here? (1.04)**
 
--   **What is here? (1.04)**
-
--   **Accessibility (1.05)**
+  -   **Accessibility (1.05)**
 
 <h2 id="ch1-02">1.02 Usability and User Experience (2:29)</h2>
 
